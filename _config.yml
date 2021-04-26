@@ -1,2 +1,3 @@
 name: Monika Jain, PhD student
-	markdown: kramdown
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
