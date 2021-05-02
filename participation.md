@@ -13,7 +13,7 @@ Here are some of my <b>Activities</b>
 - Attended Graduate Symposium by [Google Research India 2021](https://sites.google.com/view/graduatesymposium2021)
 - Attended NLP ACM [India Winter Schools](https://aaai.org/Conferences/AAAI-21/) 2020-21 
 - Got selected as student volunteers for [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-- Teaching assistant in [Semantic Web course] (http://raghavam.github.io/teaching/2019/winter/semweb/) at IIIT-Delhi
+- Teaching assistant in [Semantic Web course](http://raghavam.github.io/teaching/2019/winter/semweb/) at IIIT-Delhi
 - Attended [ISWC 2020](https://iswc2020.semanticweb.org/) conference
 - Got the student grant for [ISWC 2020](https://iswc2020.semanticweb.org/) 
 - Attended the [ACM-W Grad Cohort 2020](https://www.notion.so/ACM-W-Grad-Cohort-07310849305f495295988afe113cc386)
