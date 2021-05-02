@@ -4,6 +4,7 @@ title:
 permalink: /participation/
 ---
 
+<br />
 <p align="center">
 A selection of my <b>participation</b>, grouped by categories.
 </p>
@@ -12,7 +13,6 @@ A selection of my <b>participation</b>, grouped by categories.
 
 - **Teaching Assistant**, [Semantic Web](http://raghavam.github.io/teaching/2019/winter/semweb/), 2020
 
-## <center>Professional Service</center>
 
 ### Activities
 - Attended NLP ACM India Winter Schools 2020-21
