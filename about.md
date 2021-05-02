@@ -6,6 +6,7 @@ permalink: /about/
 <br />
 <br />
 <p align="center">
+  <br />  
     More details: 
     <a href="/img/Monika_Jain_resume.pdf">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
