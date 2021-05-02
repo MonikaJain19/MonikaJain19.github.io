@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /awards/
+permalink: /projects/
 ---
 
 <p align="center">
