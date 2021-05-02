@@ -5,9 +5,8 @@ permalink: /publications/
 ---
 
 <p align="center">
-A selection of my publications, sorted by time.
-<br/>
-Looking for full? Please visit [<a href = "https://scholar.google.com/citations?user=lRf7z-oAAAAJ&hl=en">Google Scholar</a>].
+PhD Publication<br/>
+Please visit full publications [<a href = "https://scholar.google.com/citations?user=lRf7z-oAAAAJ&hl=en">Google Scholar</a>].
 </p>
 
 
