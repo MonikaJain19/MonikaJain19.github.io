@@ -14,7 +14,7 @@ List of <b>projects</b> that I am currently working on.
 </p>
 
 
-### <center>Ontology Enrichment Benchmark(Active) </center>
+### <center>Ontology Enrichment Benchmark (Active) </center>
 <p>
 📢 Ontology learning is the process of building ontologies automatically from unstructured data sources such as text. Several ontology learning systems have been developed, but they have been trained and tested on different datasets. In order to evaluate and compare these systems as well as make progress in ontology learning, it is critical to have good benchmarks. In this project, we work on generating text with annotations that can be used to build ontologies with different types of axioms.
 </p>  
