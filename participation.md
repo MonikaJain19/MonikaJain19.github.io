@@ -27,5 +27,3 @@ A selection of my <b>participation</b>, grouped by categories.
 - Attended [CoDS-COMAD](https://cods-comad.in/) 2020 conference in Hyderabad, India
 - Awarded the prestigious Prime Minister’s Fellowship for four years (Jan 2020 - Jan 2024)
 - Attended the ACM-W Grad Cohort 2019 held at IIT Delhi, India.
-
-- 
