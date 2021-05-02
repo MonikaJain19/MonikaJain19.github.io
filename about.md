@@ -4,7 +4,6 @@ title:
 permalink: /about/
 ---
 <br />
-<br />
 <p align="center">
   <br />  
     More details: 
