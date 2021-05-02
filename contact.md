@@ -5,11 +5,12 @@ permalink: /contact/
 ---
 <br />
 <p align="center">
-You can reach to me at given below address </p>
+You can reach to me at given email id and  address </p>
 
 ### Contact
-Email Id: monikaja@iiitd.ac.in, monikalnct@gmail.com
+Email Id: monikaja@iiitd.ac.in
 
+### Address
 
 <p>Monika Jain,<br />
 New Academic building, <br />
