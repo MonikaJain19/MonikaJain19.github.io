@@ -3,7 +3,8 @@ layout: page
 title: 
 permalink: /about/
 ---
-
+<br />
+<br />
 <p align="center">
     More details: 
     <a href="/img/Monika_Jain_resume.pdf">
