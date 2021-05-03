@@ -9,6 +9,8 @@ permalink: /participation/
 Here are some of my <b>Activities</b>
 </p>
 
+### Internship
+- Intern at [Child Health Imprints](https://www.childhealthimprints.com/) from May-July 2020.
 ### Activities
 - Attended Graduate Symposium by [Google Research India 2021](https://sites.google.com/view/graduatesymposium2021)
 - Attended NLP ACM [India Winter Schools](https://aaai.org/Conferences/AAAI-21/) 2020-21 
