@@ -83,7 +83,8 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics:  
+google_analytics:  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
 
 # Google Tag Manager ID
 #gtm: ""
@@ -193,7 +194,6 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 gems:
   - jekyll-paginate
 
