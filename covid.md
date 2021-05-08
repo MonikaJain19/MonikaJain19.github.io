@@ -8,7 +8,7 @@ permalink: /covid/
 <br />
 <p align="center">
   <br />  
-  <img src="/ing/covid.jpeg" alt="My cool logo"/>
+  <img src="/img/covid.jpeg" alt="My cool logo"/>
   </a>
 </p>
 
