@@ -77,14 +77,13 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics:  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 # Google Tag Manager ID
 #gtm: ""
