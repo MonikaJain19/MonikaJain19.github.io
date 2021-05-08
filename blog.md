@@ -11,4 +11,4 @@ Here are list of my <b>blogs</b>
 ### Blog
 
 
-#Read more [here](./covid.md) 
+#Read more [here](/covid.md) 
