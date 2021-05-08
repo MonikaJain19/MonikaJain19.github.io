@@ -8,7 +8,7 @@ permalink: /covid/
 <br />
 
 
-# <center> Got vaccinated today </center>
+# <center> Got Covid Shield vaccinated today </center>
 <p>
 Hi, I was pretty excited because I was about to get shot of <b> covid shield </b> vaccine. This corona is terrible....I wish I havent heard this name before. It created so much chaos in all over world. People lost their lives becasue of this virus, I really don't know who created or where it come from but whoever did done a biggest mistake. 
 A smaller protection of corona will relieve me a lot and hence the happiness of vaccine. As per today's scenaio there is shortage of oxygen, medicine and hospital beds.
