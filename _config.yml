@@ -72,6 +72,7 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -82,7 +83,6 @@ share-links-active:
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 # Google Tag Manager ID
 #gtm: ""
