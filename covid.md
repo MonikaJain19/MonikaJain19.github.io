@@ -24,9 +24,8 @@ We should all take care of ourslef and take the vaccine.
   
   
   </p>
-</p>
+
 <p align="center">
   <br />  
   <img src="/img/covid.jpeg" width="200" alt="My cool logo"/>
-  </a>
 </p>
