@@ -21,4 +21,3 @@ My research interest is in Semantic Web area and I am developing Ontology Learni
 
 In addition, I love watching web series and love to travel.
 
-
