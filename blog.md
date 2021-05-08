@@ -8,6 +8,7 @@ permalink: /blog/
 <p align="center">
 Here are list of my <b>blogs</b>
 </p>
+### technical Blog
 
 
 ### Personal Blog
