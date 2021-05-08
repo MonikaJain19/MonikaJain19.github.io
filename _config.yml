@@ -43,12 +43,11 @@ avatar: "/img/DESC_1944.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Monika Jain
+  name:  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits"> Monika Jain
   email: "monikaja@iiitd.ac.in"
   facebook: 
   github: MonikaJain19
 
-  
 # Select which links to show in the footer
 
 footer-links-active:
@@ -83,7 +82,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics:  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+#google_analytics:  
 
 
 # Google Tag Manager ID
