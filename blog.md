@@ -8,7 +8,9 @@ permalink: /blog/
 <p align="center">
 Here are list of my <b>blogs</b>
 </p>
-### Blog
 
 
-#Read more [here](/covid.md) 
+### Personal Blog
+
+
+#Read more [Got Covid Vaccine today](/covid.md) 
