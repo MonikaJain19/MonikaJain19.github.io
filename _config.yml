@@ -82,6 +82,7 @@ share-links-active:
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 # Google Tag Manager ID
 #gtm: ""
