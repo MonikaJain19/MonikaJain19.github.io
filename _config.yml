@@ -47,9 +47,10 @@ author:
   email: "monikaja@iiitd.ac.in"
   facebook: 
   github: MonikaJain19
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
   
 # Select which links to show in the footer
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 footer-links-active:
   rss: false
