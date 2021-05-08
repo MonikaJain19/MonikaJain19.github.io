@@ -9,4 +9,4 @@ permalink: /blog/
 Here are list of my <b>blogs</b>
 </p>
 ### Blog
-#Read more [here](./README_2.md) 
+#Read more [here](./covid.md) 
