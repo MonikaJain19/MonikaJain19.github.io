@@ -11,6 +11,7 @@ Here are some of my <b>Activities</b>
 
 ### Internship
 - Intern at [Child Health Imprints](https://www.childhealthimprints.com/) from May-July 2020.
+
 ### Activities
 
 - Student volunteer at [ESWC conference](https://2021.eswc-conferences.org/), June 2021
