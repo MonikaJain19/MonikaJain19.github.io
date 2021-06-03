@@ -9,7 +9,6 @@ permalink: /blog/
 Here are list of my <b>blogs</b>
 </p>
 ### Technical Blog
-[ESWC Poster 2021] (/https://www.youtube.com/watch?v=0KW66BcD6EQ)
 
 ### Personal Blog
 
