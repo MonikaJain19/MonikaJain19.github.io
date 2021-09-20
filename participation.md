@@ -13,7 +13,10 @@ Here are some of my <b>Activities</b>
 - Intern at [Child Health Imprints](https://www.childhealthimprints.com/) from May-July 2020.
 
 ### Activities
-
+- Received student grant and attended 34th International Workshop on Description Logics, September 19–22, 2021
+- Attended Reasoning Web Summer School 2021, 18-15 September 2021
+- Sub-reviewer of CODS-COMAD and CIKM conference.
+- One of the speaker of one week online FDP on Semantic Intelligence:The Way Forward with Artificial Intelligence (Part II), July 21-25, 2021
 - Student volunteer at [ESWC conference](https://2021.eswc-conferences.org/), June 2021
 - Attended Graduate Symposium by [Google Research India 2021](https://sites.google.com/view/graduatesymposium2021)
 - Attended NLP ACM [India Winter Schools](https://aaai.org/Conferences/AAAI-21/) 2020-21 
