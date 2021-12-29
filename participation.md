@@ -15,8 +15,7 @@ Here are some of my <b>Activities</b>
 ### Activities
 - Received student grant and attended 34th [International Workshop on Description Logics](https://dai.fmph.uniba.sk/events/dl2021/), September 19–22, 2021
 - Attended [Reasoning Web Summer School](https://declarativeai2021.net/reasoning-web/) 2021, 18-15 September 2021
-- Sub-reviewer of [TheWebConf2022](https://www2022.thewebconf.org/), [SemREC 2021](https://semrec.github.io/), [CODS-COMAD](https://cods-comad.in/),
--  [CIKM](https://www.cikm2021.org/), [DASFAA 2022](https://www.dasfaa2022.org/), [ISWC 2021](https://iswc2021.semanticweb.org/) conference.
+- Sub-reviewer of [TheWebConf2022](https://www2022.thewebconf.org/), [SemREC 2021](https://semrec.github.io/), [CODS-COMAD](https://cods-comad.in/),    [CIKM(https://www.cikm2021.org/), [DASFAA 2022](https://www.dasfaa2022.org/), [ISWC 2021](https://iswc2021.semanticweb.org/) conference.
 - One of the speaker of one week online FDP on Semantic Intelligence:The Way Forward with Artificial Intelligence (Part II), July 21-25, 2021
 - Student volunteer at [ESWC conference](https://2021.eswc-conferences.org/), June 2021
 - Attended Graduate Symposium by [Google Research India 2021](https://sites.google.com/view/graduatesymposium2021)
