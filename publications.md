@@ -33,7 +33,7 @@ Harpreet Singh. 2024."<a href="https://ieeexplore.ieee.org/document/10352145"> A
       <p>Nikhil Sachdeva, Monika Jain, Raghava Mutharaju. 2021. "<a href="https://openreview.net/pdf?id=uL5eaPThII2">Extraction of Union and Intersection Axioms from Biomedical Text</a>".  Posters and Demos Track. In: Verborgh, R., et al. The Semantic Web: ESWC 2021 Satellite Events. ESWC 2021. Lecture Notes in Computer Science, vol 12739. Springer, Cham.</p>
     </li>
     <li>
-      <p>Monika Jain, Paramita Mirza, and Raghava Mutharaju. 2020. "<a href="https://dl.acm.org/doi/10.1145/3371158.3371223">Cardinality Extraction from Text for Ontology Learning</a>". Young Researchers' Symposium Track. In Proceedings of the 7th ACM IKDD CoDS and 25th COMAD (CoDS COMAD 2020). Association for Computing Machinery, New York, NY, USA, 354.</p>
+      <p>Monika Jain, Paramita Mirza, and Raghava Mutharaju. 2020. "<a href="https://dl.acm.org/doi/10.1145/3371158.3371223">Cardinality Extraction from Text for Ontology Learning</a>". Young Researchers' Symposium Track. In Proceedings of the 7th ACM IKDD CoDS and 25th COMAD, CoDS COMAD 2020. Association for Computing Machinery, New York, NY, USA, 354.</p>
     </li>
   </ol>
 </body>
