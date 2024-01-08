@@ -9,8 +9,6 @@ You can reach to me at given email id and  address </p>
 
 ### Contact
 Email Id: monikaja@iiitd.ac.in
-
-
 <br />
 [Twitter](https://twitter.com/home)
 <br />
