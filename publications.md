@@ -21,8 +21,10 @@ Please visit full publications [<a href = "https://scholar.google.com/citations?
       <p>Monika Jain, Raghava Mutharaju, Ramakanth Kavuluru, Kuldeep Singh. 2024. "Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction". Main Technical Track. In Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24), Vancouver, Canada, February 22 – February 25, 2024.</p>
     </li>
 
-    Ravneet Kaur, Monika Jain, Ryan M. McAdams, Yao Sun, Shubham Gupta, Raghava Mutharaju, Su Jin Cho, Satish Saluja, Jonathan P. Palma, Avneet Kaur, 
-Harpreet Singh. 2024. "An Ontology and Rule-Based Clinical Decision Support System for Personalized Nutrition Recommendations in the Neonatal Intensive Care Unit" in IEEE Access, vol. 11, pp. 142433-142446, 2023, doi: 10.1109/ACCESS.2023.3341403.
+   <li>
+    <p>Ravneet Kaur, Monika Jain, Ryan M. McAdams, Yao Sun, Shubham Gupta, Raghava Mutharaju, Su Jin Cho, Satish Saluja, Jonathan P. Palma, Avneet Kaur, 
+Harpreet Singh. 2024. "An Ontology and Rule-Based Clinical Decision Support System for Personalized Nutrition Recommendations in the Neonatal Intensive Care Unit" in IEEE Access, vol. 11, pp. 142433-142446, 2023, doi: 10.1109/ACCESS.2023.3341403.</p>
+   </li>
     
     <li>
       <p>Monika Jain, Kuldeep Singh, and Raghava Mutharaju. 2023. "<a href="https://dl.acm.org/doi/abs/10.1007/978-3-031-43421-1_14">ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction</a>". Research Track. In Machine Learning and Knowledge Discovery in Databases: Research Track: European Conference, ECML PKDD 2023, Turin, Italy, September 18–22, 2023, Proceedings, Part IV. Springer-Verlag, Berlin, Heidelberg, 230–247.</p>
