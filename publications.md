@@ -27,7 +27,7 @@ Harpreet Singh. 2024."<a href="https://ieeexplore.ieee.org/document/10352145"> A
    </li>
     
     <li>
-      <p>Monika Jain, Kuldeep Singh, and Raghava Mutharaju. 2023. "<a href="https://dl.acm.org/doi/abs/10.1007/978-3-031-43421-1_14">ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction</a>". Research Track. In Machine Learning and Knowledge Discovery in Databases:European Conference, ECML PKDD 2023, Turin, Italy, September 18–22, 2023, Proceedings, Part IV. Springer-Verlag, Berlin, Heidelberg, 230–247.</p>
+      <p>Monika Jain, Kuldeep Singh, and Raghava Mutharaju. 2023. "<a href="https://dl.acm.org/doi/abs/10.1007/978-3-031-43421-1_14">ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction</a>". Research Track. In Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2023, Turin, Italy, September 18–22, 2023, Proceedings, Part IV. Springer-Verlag, Berlin, Heidelberg, 230–247.</p>
     </li>
     <li>
       <p>Nikhil Sachdeva, Monika Jain, Raghava Mutharaju. 2021. "<a href="https://openreview.net/pdf?id=uL5eaPThII2">Extraction of Union and Intersection Axioms from Biomedical Text</a>".  Posters and Demos Track. In: Verborgh, R., et al. The Semantic Web: ESWC 2021 Satellite Events. ESWC 2021. Lecture Notes in Computer Science, vol 12739. Springer, Cham.</p>
