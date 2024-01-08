@@ -23,7 +23,7 @@ Please visit full publications [<a href = "https://scholar.google.com/citations?
 
    <li>
     <p>Ravneet Kaur, Monika Jain, Ryan M. McAdams, Yao Sun, Shubham Gupta, Raghava Mutharaju, Su Jin Cho, Satish Saluja, Jonathan P. Palma, Avneet Kaur, 
-Harpreet Singh. 2024."<a href="https://ieeexplore.ieee.org/document/10352145"> "An Ontology and Rule-Based Clinical Decision Support System for Personalized Nutrition Recommendations in the Neonatal Intensive Care Unitt</a>" in IEEE Access, vol. 11, pp. 142433-142446, 2023, doi: 10.1109/ACCESS.2023.3341403.</p>
+Harpreet Singh. 2024."<a href="https://ieeexplore.ieee.org/document/10352145"> An Ontology and Rule-Based Clinical Decision Support System for Personalized Nutrition Recommendations in the Neonatal Intensive Care Unitt</a>" in IEEE Access, vol. 11, pp. 142433-142446, 2023, doi: 10.1109/ACCESS.2023.3341403.</p>
    </li>
     
     <li>
