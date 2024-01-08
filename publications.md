@@ -6,7 +6,6 @@ permalink: /publications/
 <br />
 <br />
 <p align="center">
-PhD Publication<br/>
 Please visit full publications [<a href = "https://scholar.google.com/citations?user=lRf7z-oAAAAJ&hl=en">Google Scholar</a>].
 </p>
 
