@@ -22,7 +22,7 @@ Please visit full publications [<a href = "https://scholar.google.com/citations?
  </li>
 
     <li>
-      <p>Monika Jain, Raghava Mutharaju, Ramakanth Kavuluru, Kuldeep Singh. 2024."<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29792"> "Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction". Main Technical Track. In Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24), Vancouver, Canada, February 22 – February 25, 2024.</p>
+      <p>Monika Jain, Raghava Mutharaju, Ramakanth Kavuluru, Kuldeep Singh. 2024. "<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29792"> Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction". Main Technical Track. In Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24), Vancouver, Canada, February 22 – February 25, 2024.</p>
     </li>
 
    <li>
