@@ -17,8 +17,12 @@ Please visit full publications [<a href = "https://scholar.google.com/citations?
 <body>
   <h1>PhD Publications</h1>
   <ol>
+ <li>
+    Monika Jain. 2024. Knowledge Enabled Relation Extraction. In Companion Proceedings of the ACM Web Conference 2024 (WWW ’24 Companion), May 13–17, 2024, Singapore, Singapore. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3589335.3651263
+ </li>
+
     <li>
-      <p>Monika Jain, Raghava Mutharaju, Ramakanth Kavuluru, Kuldeep Singh. 2024. "Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction". Main Technical Track. In Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24), Vancouver, Canada, February 22 – February 25, 2024.</p>
+      <p>Monika Jain, Raghava Mutharaju, Ramakanth Kavuluru, Kuldeep Singh. 2024."<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29792"> "Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction". Main Technical Track. In Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24), Vancouver, Canada, February 22 – February 25, 2024.</p>
     </li>
 
    <li>
