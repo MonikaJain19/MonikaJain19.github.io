@@ -8,6 +8,6 @@
 <body>
     <h2>Find My CV Here</h2>
     <p>Download my CV:</p>
-    <a href="files/Monika_Jain_Resume1.pdf" download>Download CV (PDF)</a>
+    <a href="files/Monika_Jain_Resume1.pdf" target="_blank" rel="noopener noreferrer">Download CV (PDF)</a>
 </body>
 </html>
