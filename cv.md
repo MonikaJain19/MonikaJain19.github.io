@@ -7,4 +7,3 @@
     <h2>Find My CV Here</h2>
     <a href="files/Monika_Jain_Resume1.pdf" download>Download CV (PDF)</a>
 </body>
-</html>
