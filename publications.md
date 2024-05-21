@@ -13,7 +13,7 @@
     </li>
      
     <li>
-      <p>Monika Jain. 2024. "<a href="https://dl.acm.org/doi/10.1145/3589335.3651263">Knowledge Enabled Relation Extraction</a>. In Companion Proceedings of the ACM Web Conference 2024 (WWW ’24 Companion), May 13–17, 2024, Singapore, Singapore. ACM, New York, NY, USA, 5 pages. <a href="https://doi.org/10.1145/3589335.3651263"></p>
+      <p>Monika Jain. 2024. "<a href="https://dl.acm.org/doi/10.1145/3589335.3651263">Knowledge Enabled Relation Extraction</a>. In Companion Proceedings of the ACM Web Conference 2024 (WWW ’24 Companion), May 13–17, 2024, Singapore, Singapore. ACM, New York, NY, USA, 5 pages.</p>
     </li>
 
     <li>
