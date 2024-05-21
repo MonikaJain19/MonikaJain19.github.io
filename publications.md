@@ -9,11 +9,11 @@
   <ol>
 
     <li>
-      <p>Monika Jain, Raghava Mutharaju, Kuldeep Singh, Ramakanth Kavuluru. 2024. Knowledge-Driven Cross-Document Relation Extraction, Research Track (Findings). The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024). August 11-16, 2024, Bangkok, Thailand.</p>
+      <p>Monika Jain, Raghava Mutharaju, Kuldeep Singh, Ramakanth Kavuluru. 2024. "Knowledge-Driven Cross-Document Relation Extraction", Research Track (Findings). The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024). August 11-16, 2024, Bangkok, Thailand.</p>
     </li>
      
     <li>
-      <p>Monika Jain. 2024. "<a href="https://dl.acm.org/doi/10.1145/3589335.3651263">Knowledge Enabled Relation Extraction. In Companion Proceedings of the ACM Web Conference 2024 (WWW ’24 Companion), May 13–17, 2024, Singapore, Singapore. ACM, New York, NY, USA, 5 pages. <a href="https://doi.org/10.1145/3589335.3651263"></a></p>
+      <p>Monika Jain. 2024. "<a href="https://dl.acm.org/doi/10.1145/3589335.3651263">Knowledge Enabled Relation Extraction</a>. In Companion Proceedings of the ACM Web Conference 2024 (WWW ’24 Companion), May 13–17, 2024, Singapore, Singapore. ACM, New York, NY, USA, 5 pages. <a href="https://doi.org/10.1145/3589335.3651263"></p>
     </li>
 
     <li>
